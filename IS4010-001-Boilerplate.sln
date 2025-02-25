@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MotusProject", "IS4010-001-Boilerplate\MotusProject.pyproj", "{94D73DBC-B6CE-4EC7-981B-76D3DFE9EFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D73DBC-B6CE-4EC7-981B-76D3DFE9EFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D73DBC-B6CE-4EC7-981B-76D3DFE9EFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {272B68EA-57A0-46C8-9FD4-EB08D2C6C0C9}
+	EndGlobalSection
+EndGlobal
